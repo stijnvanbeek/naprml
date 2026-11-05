@@ -1,0 +1,24 @@
+<rml>
+	<head>
+		<title>Example</title>
+		<style>
+			body {
+				font-family: Helvetica;
+				color: #ffffff;
+				background-color: #202020e0;
+				padding: 20px;
+			}
+			h1 {
+				font-size: 24px;
+				margin-bottom: 10px;
+			}
+			p {
+				font-size: 16px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Example</h1>
+		<p>Hello RmlUi.</p>
+	</body>
+</rml>
